@@ -1,5 +1,9 @@
 # LeetCode solutions
 
-Here, I will be sharing my solutions to the daily LeetCode problems. The solutions will be accompanied by a detailed explanation and analysis of the problem, as well as the approach and algorithm used to solve it.
+Here, I will be sharing my solutions to the daily LeetCode challenge or general problems.
+
+Arranged on basis of difficulty:
+<b> Easy, Medium and Hard <b>
+
 
 Profile : https://leetcode.com/allelbhagya/
